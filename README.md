@@ -111,13 +111,79 @@ Inference measures: Probability scores & distributions. Simple Bayesian methods 
 
 #
 
+<img width="430" alt="image" src="https://github.com/user-attachments/assets/e7951b29-3672-4f68-ad66-b490087f5abc" />
 
+![image](https://github.com/user-attachments/assets/d1cb6ff2-812d-43af-8bab-5c93ea6d9cb8)
+
+#
 
 Pairwise Scatter plots of 2 variables, dependent & target each for this small yet complex dataset.
 
 
 
 <img width="430" alt="image" src="https://github.com/user-attachments/assets/cbf8a20e-f27c-4d6d-b786-d441c60ff1f9" />
+
+#
+
+![image](https://github.com/user-attachments/assets/a6c54940-0b41-4ce8-b6d1-181e65568fef)
+
+
+#
+
+![image](https://github.com/user-attachments/assets/dbbae1dc-ae04-4fcb-b09a-9a6cf8755186)
+
+
+#
+
+References:
+
+Elements of Causal Inference. Foundations and Learning Algorithms
+Jonas Peters, Dominik Janzing, and Bernard Scholkopf
+Pub date: November 29, (2017)
+ 
+Causal Machine Learning: A Survey and Open Problems,
+Jean Kaddour,1, Aengus Lynch, Qi Liu, Matt J. Kusner1, Ricardo Silva (2023)
+ 
+Explainable Artificial Intelligence: Understanding, Visualizing, and Interpreting Deep Learning Models,
+Wojciech Samek , Thomas Wiegand Klaus-Robert Muller (2019)
+ 
+Graph Neural Networks Intersect Probabilistic Graphical Models: A Survey
+Chenqing Hua Sitao Luan Qian Zhang  Jie Fu (January 2023)
+
+Interpretable Machine Learning
+A Guide for Making Black Box Models Explainable Molnar (2023)
+
+Artificial Intelligence : A Modern Approach Russell Stewart, Peter Norvig (2021)
+
+Probabilistic Machine Learning Advanced Topics, Kevin Murphy, Chapter 36. Causality.(2021)
+
+An Introduction to Probabilistic Graphical Models, Michael I. Jordan (2003)
+
+BEExAI: Benchmark to Evaluate Explainable AISamuel Sithakoul et al. 
+
+Graph Neural Networks Intersect Probabilistic Graphical Models: A SurveyChenqing Hua et al. (2023) 
+
+An AI Architecture with the Capability to Explain Recognition ResultsPaul Whitten et al. 
+
+Metrics for Explainable AI: Challenges and ProspectsRobert R. Hoffman et al. (Institute for Human and Machine Cognition)
+
+Benchmarking Graph Neural NetworksVijay Prakash Dwivedi et al. 
+
+DARPA's Explainable AI (XAI) program: A RetrospectiveDavid Gunning et al. (Wiley Applied AI Letters, December 2021) 
+
+Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AIAlejandro Barredo Arrietaa et al.(2021)
+
+Machine Learning and Probabilistic Graphical Models for Decision Support Systems (Editor: Kim Phuc Tran)
+
+Probabilistic Graphical Models (Daphne Koller & Nir Friedman) 
+
+Pattern Recognition and Machine Learning (Christopher Bishop) Causal Inference in Statistics (Judea Pearl) Causality (Judea Pearl) Book of Why (Judea Pearl) 
+
+Four Principles of Explainable Artificial Intelligence (NIST)P. Jonathon Phillips et al. 
+
+On the Relationship Between Explanation and Prediction: A Causal ViewAmir-Hossein Karim et al.
+
+
 
 
 
