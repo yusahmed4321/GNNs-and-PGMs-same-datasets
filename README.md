@@ -26,6 +26,9 @@ Basic overviewof methodology:
 <img width="410" alt="image" src="https://github.com/user-attachments/assets/7740ce94-5c0e-4ff9-a224-0f2c66f06a00" />
 
 
+
+
+
 GNNs are deep learning architectures that are specifically designed for relational data, which are a generalization of message-passing neural networks for data in non-Euclidean domain. (Gilmer et al., 2017) 
 
 PGMs are mathematically and statistically interpretable models which can express the conditional dependence structure between random variables (Qu et al., 2019; 2021).
