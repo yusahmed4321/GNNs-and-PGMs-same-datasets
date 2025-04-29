@@ -111,10 +111,9 @@ Inference measures: Probability scores & distributions. Simple Bayesian methods 
 
 #
 
-<img width="430" alt="image" src="https://github.com/user-attachments/assets/9c0e5b1c-602f-43d8-9b0f-bac15caea4b1" />
 
 
-Pairwise Scatter plotsof 2 variables,dependent & target eachfor this small yet complex dataset
+PairwiseScatter plotsof 2 variables,dependent &target eachfor this small yet complex dataset
 
 #
 
