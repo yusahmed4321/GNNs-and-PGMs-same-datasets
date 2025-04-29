@@ -32,6 +32,16 @@ PGMs are mathematically and statistically interpretable models which can express
 
 <img width="486" alt="image" src="https://github.com/user-attachments/assets/91533502-c464-4fd6-872f-07f2c54fbc05" />
 
+GNN: multilayer perceptron representation of variables.
+
+<img width="730" alt="image" src="https://github.com/user-attachments/assets/1666fae2-7f54-4faf-b862-85d08e64d55e" />
+
+
+
+
+
+
+
 
 
 
