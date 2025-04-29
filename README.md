@@ -130,11 +130,6 @@ Pairwise Scatter plots of 2 variables, dependent & target each for this small ye
 
 #
 
-![image](https://github.com/user-attachments/assets/dbbae1dc-ae04-4fcb-b09a-9a6cf8755186)
-
-
-#
-
 References:
 
 Elements of Causal Inference. Foundations and Learning Algorithms
