@@ -66,6 +66,58 @@ Pgmpy is a Python package for causal inference and probabilistic inference using
 
 ![image](https://github.com/user-attachments/assets/8d385a27-7e2f-43ca-a0fc-ff19f09b7763)
 
+![image](https://github.com/user-attachments/assets/cf625d32-f3b4-43eb-9471-57cd32a8daab)
+
+![image](https://github.com/user-attachments/assets/b5d01404-db81-46d2-bd3d-c35a8e0b0a84)
+
+![image](https://github.com/user-attachments/assets/ecd4f742-03d2-4272-b085-1ea6a0658736)
+
+
+Goal for this problem:
+
+Prediction: The model is used to predict outcomes for new data points. 
+
+Inference: The model is used to learn about the data generation process.
+
+The goal is to identify explainable components from data and the models.
+Some metrics will hopefully explain data according to the 2 models.
+
+Metrics:
+
+LIME: Local Interpretable Model-agnostic Explanations, is a technique that generates local approximations to model predictions. 
+Python package that can be used to explain the predictions of machine learning models for classification and regression problems. LIME is model agnostic, meaning it can be used with any supervised machine learning model.
+SHAP: SHapley Additive exPlanations is a technique that is used to assign a value to each feature, indicating its contribution to a model’s output. 
+Metrics to reveal the impact of variables like income and credit history on the final credit score. 
+Correlation measures between variables and values. 
+CAUSALITY: More than just ground truth (within data) : x --> y is needed. 
+Inference measures: Probability scores & distributions. Simple Bayesian methods are Naïve Bayes & Bayesian Belief Networks to used with updated priors in marginal and joint calculations.
+
+
+![image](https://github.com/user-attachments/assets/f82b9e3a-0eb7-4e3a-b4e5-770bf3e347e8)
+
+![image](https://github.com/user-attachments/assets/f7347657-4ae1-4a78-81ec-51043f6e300f)
+
+![image](https://github.com/user-attachments/assets/efb528c5-913a-4140-b8f4-1127d643be50)
+
+![image](https://github.com/user-attachments/assets/0c775de7-aa30-4dc1-b240-d002f8c25e4a)
+
+![image](https://github.com/user-attachments/assets/c7cec22d-2a33-452f-b4c1-ada4f6b58bfe)
+
+![image](https://github.com/user-attachments/assets/14914f85-02fe-4cb3-b82e-80447e97c0c5)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
