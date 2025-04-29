@@ -134,18 +134,23 @@ References:
 Elements of Causal Inference. Foundations and Learning Algorithms
 Jonas Peters, Dominik Janzing, and Bernard Scholkopf
 Pub date: November 29, (2017)
+
  
 Causal Machine Learning: A Survey and Open Problems,
 Jean Kaddour,1, Aengus Lynch, Qi Liu, Matt J. Kusner1, Ricardo Silva (2023)
+
  
 Explainable Artificial Intelligence: Understanding, Visualizing, and Interpreting Deep Learning Models,
 Wojciech Samek , Thomas Wiegand Klaus-Robert Muller (2019)
+
  
 Graph Neural Networks Intersect Probabilistic Graphical Models: A Survey
 Chenqing Hua Sitao Luan Qian Zhang  Jie Fu (January 2023)
 
+
 Interpretable Machine Learning
 A Guide for Making Black Box Models Explainable Molnar (2023)
+
 
 Artificial Intelligence : A Modern Approach Russell Stewart, Peter Norvig (2021)
 
