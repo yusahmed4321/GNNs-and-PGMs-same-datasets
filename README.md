@@ -21,6 +21,7 @@ strengths and weaknesses of both ML-NNs and PGMs for explaining the data,
 as well as detailing their similarities and differences using the same datasets for the same type of classification and regression tasks.
 
 
+[image](https://github.com/user-attachments/assets/9f8f8f97-4693-4bb1-94c2-67505474ab0f)
 
 
 
