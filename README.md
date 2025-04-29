@@ -93,7 +93,6 @@ CAUSALITY: More than just ground truth (within data) : x --> y is needed.
 Inference measures: Probability scores & distributions. Simple Bayesian methods are Naïve Bayes & Bayesian Belief Networks to used with updated priors in marginal and joint calculations.
 
 
-![image](https://github.com/user-attachments/assets/f82b9e3a-0eb7-4e3a-b4e5-770bf3e347e8)
 
 ![image](https://github.com/user-attachments/assets/f7347657-4ae1-4a78-81ec-51043f6e300f)
 
