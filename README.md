@@ -1,6 +1,14 @@
 # A comparative study of Neural Nets and Graphical Models for causality and interpretability on the same dataset 
 
-[image](https://github.com/user-attachments/assets/6b0651a1-f019-489a-9d2f-39c4c60e18cf)
+This study is about performing basic model training/testing/prediction experiments using Machine Learning- Neural Networks (ML-NNs) and Probabilistic Graphical Models (PGMs) to compare their output and performance metrics for basic causality and explainability using the same datasets. 
+
+Some academic papers and textbooks that describe a few experiments and outcomes
+outlining many aspects of causal  and explainable machine   learning methods, techniques, 
+and very few metrics regarding comparisons between ML-NNs and PGMs.
+The consensus amongst researchers  found so far is that PGMs are overall more 
+appropriate  for causal and explainable machine learning tasks than conventional ML-NNs. 
+
+
 
 
 Abstract
