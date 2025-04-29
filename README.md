@@ -62,6 +62,13 @@ Pgmpy is a Python package for causal inference and probabilistic inference using
 ![image](https://github.com/user-attachments/assets/d02ea98d-6121-4e95-8866-f28a9b36f404)
 
 
+![image](https://github.com/user-attachments/assets/f96beb21-1480-47f9-9333-4118b713fa0d)
+
+![image](https://github.com/user-attachments/assets/8d385a27-7e2f-43ca-a0fc-ff19f09b7763)
+
+
+
+
 
 
 
