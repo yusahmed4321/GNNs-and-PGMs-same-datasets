@@ -35,7 +35,8 @@ PGMs are mathematically and statistically interpretable models which can express
 
 <img width="486" alt="image" src="https://github.com/user-attachments/assets/91533502-c464-4fd6-872f-07f2c54fbc05" />
 
-<>
+#
+#
 
 
 
