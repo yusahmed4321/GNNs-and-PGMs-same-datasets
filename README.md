@@ -51,6 +51,23 @@ GNN: multilayer perceptron representation of variables.
 NB-PGM representation: conditional parameterization of variables from dataset.
 
 
+GNNs and Naïve Bayes-PGM for python:
+
+PyTorch Geometric(PyG) is a Python library for deep learning GNNs on irregular structures like graphs.
+
+Naive Bayes is a special case of Bayesian Model where the only edges in the model are from the feature variables to the dependent variable. 
+Pgmpy is a Python package for causal inference and probabilistic inference using Directed Acyclic Graphs (DAGs) and Bayesian Networks.
+
+
+![image](https://github.com/user-attachments/assets/d02ea98d-6121-4e95-8866-f28a9b36f404)
+
+
+
+
+
+
+
+
 
 
 
