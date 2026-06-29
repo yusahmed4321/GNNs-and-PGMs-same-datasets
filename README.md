@@ -73,6 +73,8 @@ Pgmpy is a Python package for causal inference and probabilistic inference using
 ![image](https://github.com/user-attachments/assets/ecd4f742-03d2-4272-b085-1ea6a0658736)
 
 
+Compare with a similar EDA of dataset done in R by:  https://rpubs.com/Naishad/eda-cardiovasculardata_v1 . 
+
 Goal for this problem:
 
 Prediction: The model is used to predict outcomes for new data points. 
@@ -92,8 +94,6 @@ Correlation measures between variables and values.
 CAUSALITY: More than just ground truth (within data) : x --> y is needed. 
 Inference measures: Probability scores & distributions. Simple Bayesian methods are Naïve Bayes & Bayesian Belief Networks to used with updated priors in marginal and joint calculations.
 
-
-(Compare with a similar EDA of dataset done in R by:  https://rpubs.com/Naishad/eda-cardiovasculardata_v1   )
 
 
 ![image](https://github.com/user-attachments/assets/f7347657-4ae1-4a78-81ec-51043f6e300f)
