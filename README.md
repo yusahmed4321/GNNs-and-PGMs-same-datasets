@@ -93,6 +93,8 @@ CAUSALITY: More than just ground truth (within data) : x --> y is needed.
 Inference measures: Probability scores & distributions. Simple Bayesian methods are Naïve Bayes & Bayesian Belief Networks to used with updated priors in marginal and joint calculations.
 
 
+(Compare with a similar EDA of dataset done in R by:  https://rpubs.com/Naishad/eda-cardiovasculardata_v1   )
+
 
 ![image](https://github.com/user-attachments/assets/f7347657-4ae1-4a78-81ec-51043f6e300f)
 
